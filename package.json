@@ -1,0 +1,24 @@
+{
+  "name": "handsontable-examples",
+  "version": "1.0.0",
+  "description": "Hansontable Examples",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simaosoares/handsontable-examples.git"
+  },
+  "keywords": [
+    "Handsontable"
+  ],
+  "author": "Simão Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simaosoares/handsontable-examples/issues"
+  },
+  "homepage": "https://github.com/simaosoares/handsontable-examples#readme",
+  "devDependencies": {
+  }
+}
